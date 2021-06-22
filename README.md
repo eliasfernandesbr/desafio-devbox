@@ -1,6 +1,6 @@
 
  ![GitHub repo size](https://img.shields.io/github/repo-size/eliasfernandesbr/nlw-valoriza?color=orange&logo=GitHub)
- <a href="https://www.linkedin.com/in/fernandesnetobr/">
+ <a href="https://www.linkedin.com/in/fernandesnetobr/" target="_blank">
   <img alt="Made by Elias Fernandes" src="https://img.shields.io/badge/-Linkedin-blue?logo=LinkedIn&logoColor=white" />
   </a>
 
