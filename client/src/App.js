@@ -1,7 +1,19 @@
 import logo from './logo.svg';
 import './App.css';
+import axios from 'axios'
+import {useEffect} from 'react'
 
 function App() {
+  const getUsers = async ()=>{
+    const res = await axios.get('http://localhost:5000/api/users')
+    console.log(res)
+  }
+
+
+  useEffect(() => {
+    getUsers()
+  }, [])
+
   return (
     <div className="App">
       <header className="App-header">
